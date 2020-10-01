@@ -1,0 +1,5 @@
+clientside/musicapp/node_modules/*
+serverside/node_modules/*
+serverside/uploads/*
+serverside/package-lock.json
+clientside/musicapp/package-lock.json
